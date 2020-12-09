@@ -10,22 +10,19 @@ short-purpose: "This lesson will show you how to submit a lab time request befor
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
-who: "Pulse Crop Researchers required lab work."
+who: "Pulse Crop Researchers"
 
 # A comma-separated list of maintainers for this lesson.
 maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "."
+why: "To show how Pulse Crop Researchers can submit a request before they are allowed to access a lab under COVID-19."
 
 # A short list of items researchers will learn in this lesson.
 learn:
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-- "Quisque condimentum nunc posuere, rutrum nunc eu, cursus enim."
-- "Duis vestibulum pellentesque felis, at aliquam risus condimentum at."
+- "How to fill and submit a lab scheduling form before Pulse Crop Researches are allowed to access a lab ."
 
-data-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia orci risus. Quisque condimentum nunc posuere, rutrum nunc eu, cursus enim. Nam sit amet turpis sit amet erat pulvinar consequat eget ac erat. Aliquam erat volutpat. Aenean in bibendum nibh. Proin iaculis dictum augue nec faucibus. Integer et arcu tortor. Donec at tristique eros. Integer consequat aliquet mauris, vitae imperdiet orci iaculis sit amet. Cras sit amet mollis lacus. Sed ac auctor mi, sit amet laoreet tellus. Vivamus vehicula congue velit. Cras vulputate est nec velit pretium condimentum. Vivamus eu leo sed est ullamcorper tincidunt at non dolor. Duis vestibulum pellentesque felis, at aliquam risus condimentum at."
 ---
 
 The KnowPulse KnowledgeBase focuses on short question-based lessons to help researchers get their work done.
