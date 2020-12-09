@@ -1,9 +1,9 @@
- ---
-title: "Creating an episode"
+---
+title: "Submitting a lab time-request"
 teaching: 5
 exercises: 5
 questions:
-- "How do I submit a lab time request?"
+- "How do I submit a lab time-request?"
 objectives:
 - "Providing a step by step demonstration on how to submit a lab time request on KnowPulse"
 keypoints:
