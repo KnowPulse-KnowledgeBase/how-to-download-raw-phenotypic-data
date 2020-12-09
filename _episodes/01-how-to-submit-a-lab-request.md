@@ -12,4 +12,4 @@ keypoints:
 
 [USASK COVID-19 Lab Scheduling](https://knowpulse.usask.ca/lab)
 
-![Screenshot of main code listing](../fig/How-to-submit-lab-time-request-3..png)
+![Screenshot of main code listing](../fig/How-to-submit-lab-time-request-3.png)
