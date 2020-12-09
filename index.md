@@ -23,6 +23,7 @@ why: "To show how Pulse Crop Researchers can submit a request before they are al
 learn:
 - "How to fill and submit a lab scheduling form before Pulse Crop Researches are allowed to access a lab ."
 
+data-description: "No data required."
 ---
 
 The KnowPulse KnowledgeBase focuses on short question-based lessons to help researchers get their work done.
