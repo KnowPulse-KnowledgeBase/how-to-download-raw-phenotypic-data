@@ -3,25 +3,25 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "How do I submit a lab time request? "
+title: "How to download raw phenotypic data files from KnowPulse? "
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show you how to submit a lab time request before you are allowed to access any of the Pulse Research Group labs"
+short-purpose: "This lesson will show you how to download raw phenotypic data files from KnowPulse"
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
 who: "Pulse Crop Researchers"
 
 # A comma-separated list of maintainers for this lesson.
-maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
+maintainers: "Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "To show how Pulse Crop Researchers can submit a request before they are allowed to access a lab under COVID-19."
+why: "This tutorial is aiming to guide our pulse crop researchers through the procedure of raw phenotypic data files downloading from KnowPulse. So that the existing data can be reused for further analysis"
 
 # A short list of items researchers will learn in this lesson.
 learn:
-- "How to fill and submit a lab scheduling form before Pulse Crop Researches are allowed to access a lab ."
+- "How to download raw phenotypic data from KnowPulse."
 
 data-description: "No data required."
 ---
